@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="tests.userVerifiesCookiesContentBar" skipped="0" tests="1" time="16.17" timestamp="2022-12-20 03:21:07"><testcase classname="tests.userVerifiesCookiesContentBar" name="Tc02user verifies if cookies content bar presents when proceeding to another tab and do not accept or decline cookies"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+steps.HomeSteps.userProceedstoAnotherTabAndDoNotAcceptOrDeclineCookies(HomeSteps.java:41)&#13;
+tests.userVerifiesCookiesContentBar.tc02userVerifiesIfCookiesContentBarPresentsWhenProceedingToAnotherTabAndDoNotAcceptOrDeclineCookies(userVerifiesCookiesContentBar.java:31)&#13;
+</system-err></testcase></testsuite>
